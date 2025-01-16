@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with finding internships<br>🌱 I’m currently learning scientific computing with python
+🤝 Looking into javascript
 
 
 ## 🌐 Socials:
