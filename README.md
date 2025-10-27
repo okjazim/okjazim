@@ -3,7 +3,6 @@
 # 📊 GitHub Stats:
 ![okjazim's Stats](https://github-readme-stats.vercel.app/api?username=okjazim&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![okjazim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okjazim&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-![okjazim's Streak](https://github-readme-streak-stats.vercel.app/?user=okjazim&theme=dracula&hide_border=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
