@@ -16,5 +16,3 @@
 
 # 📊 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/okjazim?cardType=github&theme=gruvbox&preferLogin=false)](https://git.io/awesome-stats-card)
-
-![okjazim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okjazim&theme=dracula&show_icons=true&hide_border=true&layout=compact)
