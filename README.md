@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">A passionate software developer focused on <b>Full-Stack Development</b> and <b>Embedded Systems</b>.  <br>I love building practical solutions — from web apps to hardware-integrated projects.</p>
+<p align="left">A passionate software developer focused on <b>Python</b> and <b>Frontend Development</b>.  <br>I love building practical solutions — from web apps to hardware-integrated projects.</p>
 
 ###
 
