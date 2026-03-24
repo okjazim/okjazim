@@ -101,7 +101,8 @@
 
 ###
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gruvbox&preferLogin=false">    <img  alt="okjazim's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/okjazim?cardType=github&theme=gruvbox&preferLogin=false" />  </a>
+  ![okjazim's Stats](https://github-readme-stats.vercel.app/api?username=okjazim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![okjazim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okjazim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
