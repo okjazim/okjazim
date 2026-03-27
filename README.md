@@ -52,6 +52,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -101,7 +103,6 @@
 
 ###
 
-  ![okjazim's Stats](https://github-readme-stats.vercel.app/api?username=okjazim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   ![okjazim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okjazim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ###
